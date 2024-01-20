@@ -53,7 +53,7 @@ Click [here](https://m.youtube.com/channel/UCK29cXcpU7LKQCldqOsPzgg) for Video
 > apt upgrade
 > pkg install python
 > pkg install git -y
-> git clone https://github.com/mrjuice01/Whatsapp-Bann-Master
+> git clone https://github.com/Kirito596/Whatsapp-Bann-Master
 > cd Whatsapp-Bann-Master
 > python3 main.py
 ```
